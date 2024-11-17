@@ -1,4 +1,4 @@
-body{
+/*body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,8 +44,8 @@ button:hover{
     background-color: #d696fe;
     color: white;
     border-color: #d696fe;
-}
-/*body{
+}*/
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,4 +90,4 @@ button{
 }
 button:hover{
     border: 2px solid rgb(0, 221, 255);;
-}*/
+}
